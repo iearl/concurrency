@@ -1,0 +1,9 @@
+diff a/src/main/java/com/ants/concurrency/annotations/NotRecomment.java b/src/main/java/com/ants/concurrency/annotations/NotRecomment.java	(rejected hunks)
+@@ -11,6 +11,6 @@
+  */
+ @Target(ElementType.TYPE )
+ @Retention(RetentionPolicy.SOURCE)
+-public  @interface Notecomment {
++public  @interface NotRecomment {
+     String value() default "";
+ }

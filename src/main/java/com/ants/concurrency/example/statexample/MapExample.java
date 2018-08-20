@@ -1,4 +1,4 @@
-package com.ants.concurrency.statexample;
+package com.ants.concurrency.example.statexample;
 
 import com.ants.concurrency.annotations.NotRecomment;
 import com.ants.concurrency.annotations.ThreadSafe;
